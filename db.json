@@ -176,5 +176,13 @@
       "friday": "Friday . 12am-14am",
       "thursday": "Thursday . 8am-12am"
     }
-  ]
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Pregnancy Health and Wellness",
+      "overview": "Mindfulness During Pregnancy and Early Motherhood: It’s impossible to overlook the physical changes of pregnancy.",
+      "image": "https://www.expatica.com/app/uploads/sites/5/2014/05/Pregnant.."
+    }
+   ]
 }
