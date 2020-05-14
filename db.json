@@ -40,9 +40,9 @@
       "hospitalId": 1,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41HzsajKaheaO5UcmEGAVxdQ2g6ccX9wD7gVHA9kQeeHlcJ6R&s",
       "description": "He is the top pediatrician. He has done over 100 successfulconsultations within 3 years. He has achived several awards for his wonderful contribution in his own field. He's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 2,
@@ -52,9 +52,9 @@
       "hospitalId": 1,
       "image": "https://previews.123rf.com/images/jemastock/jemastock1811/jemastock181110709/127665093-doctor-profile-avatar-round-icon-vector-illustration-graphic-design.jpg",
       "description": "He is the top pediatrician. He has done over 100 successfulconsultations within 3 years. He has achived several awards for his wonderful contribution in his own field. He's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 3,
@@ -64,9 +64,9 @@
       "hospitalId": 1,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDHsZiCEkbNX-w8CgqQy6zIIseN_gps5lcbQ641wnNO9qUc9LlmQ&s",
       "description": "She is the top gynecologist. She has done over 100 successfulconsultations within 3 years. She has achived several awards for her wonderful contribution in her own field. She's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 4,
@@ -76,9 +76,9 @@
       "hospitalId": 2,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41HzsajKaheaO5UcmEGAVxdQ2g6ccX9wD7gVHA9kQeeHlcJ6R&s",
       "description": "He is the top pediatrician. He has done over 100 successfulconsultations within 3 years. He has achived several awards for his wonderful contribution in his own field. He's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 5,
@@ -88,9 +88,9 @@
       "hospitalId": 2,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRqm_HSRlAVe5buJshCZtI4txn6DcvckOabl6d0iTYoUTlJBD&s",
       "description": "She is the top pediatrician. She has done over 100 successfulconsultations within 3 years. She has achived several awards for her wonderful contribution in her own field. She's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 6,
@@ -100,9 +100,9 @@
       "hospitalId": 2,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDHsZiCEkbNX-w8CgqQy6zIIseN_gps5lcbQ641wnNO9qUc9LlmQ&s",
       "description": "She is the top gynecologist. She has done over 100 successfulconsultations within 3 years. She has achived several awards for her wonderful contribution in her own field. She's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 7,
@@ -112,9 +112,9 @@
       "hospitalId": 4,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8I16gIZZCNYEu6tV2RnpWqwUZ3SUtu7ptlG4M0132HCwiPms&s",
       "description": "She is the top pediatrician. She has done over 100 successfulconsultations within 3 years. She has achived several awards for her wonderful contribution in her own field. She's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 8,
@@ -124,9 +124,9 @@
       "hospitalId": 4,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRus88bJoSKRFneSREy6NeoEFa4mzK589VM8Sq5osFDQOJQA7ia&s",
       "description": "She is the top pediatrician. She has done over 100 successfulconsultations within 3 years. She has achived several awards for her wonderful contribution in her own field. She's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 9,
@@ -136,9 +136,9 @@
       "hospitalId": 4,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41HzsajKaheaO5UcmEGAVxdQ2g6ccX9wD7gVHA9kQeeHlcJ6R&s",
       "description": "He is the top gynecologist. He has done over 100 successfulconsultations within 3 years. He has achived several awards for his wonderful contribution in his own field. He's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 10,
@@ -148,9 +148,9 @@
       "hospitalId": 5,
       "image": "https://previews.123rf.com/images/inegvin/inegvin1711/inegvin171100010/89549889-doctor-web-icon-head-physician-medical-avatar-in-flat-style-illustration.jpg",
       "description": "He is the top pediatrician. He has done over 100 successfulconsultations within 3 years. He has achived several awards for his wonderful contribution in his own field. He's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 11,
@@ -160,9 +160,9 @@
       "hospitalId": 5,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8I16gIZZCNYEu6tV2RnpWqwUZ3SUtu7ptlG4M0132HCwiPms&s",
       "description": "She is the top pediatrician. She has done over 100 successfulconsultations within 3 years. She has achived several awards for her wonderful contribution in her own field. She's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     },
     {
       "id": 12,
@@ -172,9 +172,9 @@
       "hospitalId": 5,
       "image": "https://previews.123rf.com/images/inegvin/inegvin1711/inegvin171100010/89549889-doctor-web-icon-head-physician-medical-avatar-in-flat-style-illustration.jpg",
       "description": "He is the top pediatrician. He has done over 100 successfulconsultations within 3 years. He has achived several awards for his wonderful contribution in his own field. He's available for private consultation for given schedules.",
-      "monday":"Monday . 9am-11am",
-      "friday":"Friday . 12am-14am",
-      "thursday":"Thursday . 8am-12am"
+      "monday": "Monday . 9am-11am",
+      "friday": "Friday . 12am-14am",
+      "thursday": "Thursday . 8am-12am"
     }
   ],
   "articles": [
