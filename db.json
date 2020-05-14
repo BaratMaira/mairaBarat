@@ -176,31 +176,5 @@
       "friday": "Friday . 12am-14am",
       "thursday": "Thursday . 8am-12am"
     }
-  ],
-  "articles": [
-    {
-      "id": 1,
-      "title": "Pregnancy Health and Wellness",
-      "overview": "Mindfulness During Pregnancy and Early Motherhood: It’s impossible to overlook the physical changes of pregnancy.",
-      "image": "https://www.expatica.com/app/uploads/sites/5/2014/05/Pregnant-woman-1920x1080.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Pregnancy Worries",
-      "overview": "First-Trimester Worries, Second-Timester Worries",
-      "image": "https://g6.psychcentral.com/blog/wp-content/uploads/2016/03/worrypreg-300x200.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Pregnancy and Pop Culture",
-      "overview": "Pregnancy Photo Shoot a Rite of Passage for Moms-to-Be ",
-      "image": "https://i.pinimg.com/originals/c2/de/9a/c2de9a8f253a3c9801d457a6bd9cf57a.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Perinatal Mood Disorders",
-      "overview": "Breaking the Silence on Prenatal Depression",
-      "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/07/foods-to-avoid-during-pregnancy-1296x728-feature.jpg?w=1155&h=1528"
-    }
   ]
 }
