@@ -176,5 +176,43 @@
       "friday": "Friday . 12am-14am",
       "thursday": "Thursday . 8am-12am"
     }
-  ]
+  ],
+  "article1": [
+{
+"id": 1,
+"title": "Pregnancy Health and Wellness",
+"title1": "Mindfulness During Pregnancy and Early Motherhood:",
+"description1": "It’s impossible to overlook the physical changes of pregnancy. But, as dramatic as those changes may be",
+"title2": "Awakening the Senses: Pregnancy Body Changes:",
+"desciption2": "How your senses are affected by the hormonal changes of pregnancy.",
+"title3": "Pregnant With Possibility, Bursting with Life:",
+"description3": "Your body knows exactly what it needs to do to prepare itself for pregnancy, birth, and beyond.",
+"title4": "Feed Your Pregnant Body Wisely: ",
+"description4": "Pregnancy is not supposed to be a nine-and-a-half-month ticket to the buffet",
+"title5": "The Pregnancy Workout Guide:",
+"description5": "You're exercising for two, baby.",
+"title6": "Unusual Pregnancy Complaints: ",
+"description6": " Belly-button soreness, skin tags, dry eye? Yep, they're all pregnancy-related.",
+"image": "https://www.expatica.com/app/uploads/sites/5/2014/05/Pregnant-woman-1920x1080.jpg"
+}
+],
+"article2": [
+{
+"id": 2,
+"title": "Pregnancy Worries",
+"title1": "First-Trimester Worries: ",
+"description1": "Here's what you need to know about the top ten first-trimester worries that are most likely to have you pacing the floor at 3 a.m",
+"title2": "Second-Trimester Worries:",
+"desciption2": "How to worry less during the middle trimester of pregnancy.",
+"title3": "Third-Trimester Worries:",
+"description3": "Reassuring words about your third-trimester worries.",
+"title4": "5 Pregnancy Stressbusters: ",
+"description4": "Healthy ways to manage stress during pregnancy.",
+"title5": "Older Women More Likely to Perceive Pregnancies as High Risk: ",
+"description5": " Older moms, including those who are experiencing low-risk pregnancies, are more likely to feel that their babies are at risk.",
+"title6": "Fetal Movement Counting Reduces Maternal Anxiety: ",
+"description6": "Pregnant women who monitor their babies’ movements via fetal movement counting during the third trimester tend.",
+"image": "https://g6.psychcentral.com/blog/wp-content/uploads/2016/03/worrypreg-300x200.jpg"
+}
+]
 }
